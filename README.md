@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @benjaminyzhang
 - 👀 I’m interested in Researching on Risk Taking and Stress Test.
-- 🌱 I’m currently learning TeX, Python, R, STATA and Javascript language.
+- 🌱 I’m currently learning TeX, Python, R, STATA and JavaScript language.
 - 💞️ I’m looking to collaborate on Stress Test on Household Risk Taking.
-- 📫 You can reach me at benjaminyzhang<at-mark>outlook.com
+- 📫 You can reach me at benjaminyzhang\<at-mark\>outlook.com
 
 <!---
 benjaminyzhang/benjaminyzhang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
